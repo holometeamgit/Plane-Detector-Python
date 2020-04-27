@@ -15,4 +15,6 @@ Run in terminal
 ```bash
 jupyter notebook
 ```
+Run Flow.ipynb
+
 Run all cells
